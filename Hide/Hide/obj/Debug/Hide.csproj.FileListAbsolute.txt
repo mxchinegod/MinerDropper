@@ -1,0 +1,7 @@
+C:\Users\Dylan\Desktop\Hide\Hide\bin\Debug\Hide.exe.config
+C:\Users\Dylan\Desktop\Hide\Hide\bin\Debug\Hide.exe
+C:\Users\Dylan\Desktop\Hide\Hide\bin\Debug\Hide.pdb
+C:\Users\Dylan\Desktop\Hide\Hide\obj\Debug\Hide.Properties.Resources.resources
+C:\Users\Dylan\Desktop\Hide\Hide\obj\Debug\Hide.csproj.GenerateResource.Cache
+C:\Users\Dylan\Desktop\Hide\Hide\obj\Debug\Hide.exe
+C:\Users\Dylan\Desktop\Hide\Hide\obj\Debug\Hide.pdb

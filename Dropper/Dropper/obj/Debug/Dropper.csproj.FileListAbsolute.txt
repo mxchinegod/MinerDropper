@@ -1,0 +1,8 @@
+C:\Users\Dylan\Desktop\Dropper\Dropper\bin\Debug\Dropper.exe.config
+C:\Users\Dylan\Desktop\Dropper\Dropper\bin\Debug\Dropper.exe
+C:\Users\Dylan\Desktop\Dropper\Dropper\bin\Debug\Dropper.pdb
+C:\Users\Dylan\Desktop\Dropper\Dropper\obj\Debug\Dropper.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\Dropper\Dropper\obj\Debug\Dropper.Properties.Resources.resources
+C:\Users\Dylan\Desktop\Dropper\Dropper\obj\Debug\Dropper.csproj.GenerateResource.Cache
+C:\Users\Dylan\Desktop\Dropper\Dropper\obj\Debug\Dropper.exe
+C:\Users\Dylan\Desktop\Dropper\Dropper\obj\Debug\Dropper.pdb
